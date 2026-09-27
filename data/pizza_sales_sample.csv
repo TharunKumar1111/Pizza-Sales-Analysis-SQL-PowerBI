@@ -1,0 +1,21 @@
+pizza_id,order_id,pizza_name_id,quantity,order_date,order_time,unit_price,total_price,pizza_size,pizza_category,pizza_ingredients,pizza_name
+1,1,hawaiian_m,1,2024-01-01,11:38:36,13.25,13.25,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+2,2,classic_dlx_m,1,2024-01-01,11:57:40,16.00,16.00,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+3,2,five_cheese_l,1,2024-01-01,11:57:40,18.50,18.50,L,Veggie,"Mozzarella, Provolone, Smoked Gouda, Blue Cheese, Romano",The Five Cheese Pizza
+4,2,ital_supr_l,1,2024-01-01,11:57:40,20.75,20.75,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions",The Italian Supreme Pizza
+5,2,mexicana_m,1,2024-01-01,11:57:40,16.00,16.00,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro",The Mexicana Pizza
+6,2,thai_ckn_l,1,2024-01-01,11:57:40,20.75,20.75,L,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
+7,3,ital_supr_m,1,2024-01-01,12:12:28,16.50,16.50,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions",The Italian Supreme Pizza
+8,3,prsc_argla_l,1,2024-01-01,12:12:28,20.75,20.75,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella",The Prosciutto and Arugula Pizza
+9,4,bbq_ckn_m,1,2024-01-01,12:16:31,16.75,16.75,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Red Onions",The Barbecue Chicken Pizza
+10,5,the_greek_s,1,2024-01-01,12:21:30,12.00,12.00,S,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast",The Greek Pizza
+11,6,spinach_supr_s,1,2024-01-01,12:29:33,12.50,12.50,S,Supreme,"Spinach, Red Onions, Kalamata Olives, Garlic, Feta Cheese",The Spinach Supreme Pizza
+12,6,classic_dlx_s,1,2024-01-01,12:29:33,12.00,12.00,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+13,7,green_garden_l,1,2024-01-01,12:35:10,20.25,20.25,L,Veggie,"Spinach, Mushrooms, Tomatoes, Red Green Peppers, Onions",The Green Garden Pizza
+14,8,ckn_alfredo_m,1,2024-01-01,12:43:08,16.75,16.75,M,Chicken,"Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese",The Chicken Alfredo Pizza
+15,9,pep_mush_pep_l,1,2024-01-01,12:47:33,17.50,17.50,L,Classic,"Pepperoni, Mushrooms, Green Peppers",The Pepperoni Mushroom and Pepper Pizza
+16,9,the_greek_xl,1,2024-01-01,12:47:33,25.50,25.50,XL,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast",The Greek Pizza
+17,10,four_cheese_l,1,2024-01-01,13:01:21,17.95,17.95,L,Veggie,"Mozzarella, Gorgonzola, Fontina, Parmigiano Reggiano",The Four Cheese Pizza
+18,11,spicy_ital_m,1,2024-01-01,13:02:11,16.50,16.50,M,Supreme,"Capocollo, Tomatoes, Goat Cheese, Artichokes, Peperoncini",The Spicy Italian Pizza
+19,12,ital_veggie_s,1,2024-01-01,13:04:41,12.75,12.75,S,Veggie,"Eggplant, Artichokes, Tomatoes, Zucchini, Red Peppers",The Italian Vegetables Pizza
+20,13,ckn_pesto_l,1,2024-01-01,13:14:19,20.75,20.75,L,Chicken,"Chicken, Tomatoes, Red Peppers, Pesto Sauce",The Chicken Pesto Pizza
